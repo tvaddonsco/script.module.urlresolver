@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.module.urlresolver" name="URLResolver" version="5.1.20" provider-name="tvaddons">
+<addon id="script.module.urlresolver" name="URLResolver" version="5.1.22" provider-name="tvaddons">
     <requires>
         <!-- <import addon="xbmc.python" version="3.0.0" /> -->
         <import addon="script.module.six" />
